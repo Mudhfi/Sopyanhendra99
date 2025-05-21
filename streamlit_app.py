@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("🎈 madrid puasa gelar")
+st.title("🦅 mantap men")
 st.write(
     "Madrid puasa gelar bubarin aja"
 )
